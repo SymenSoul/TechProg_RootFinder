@@ -1,0 +1,13 @@
+<map id="Иерархия классов. Графический вид." name="Иерархия классов. Графический вид.">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,104,80,129"/>
+<area shape="rect" id="Node000001" href="$classClientController.html" title="Логика клиента без интерфейса и сети (паттерн «Одиночка»)." alt="" coords="134,5,258,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="63,92,92,65,127,40,150,28,153,33,129,44,95,69,67,96"/>
+<area shape="rect" id="Node000002" href="$classCommandParsing.html" title="Разбирает команду клиента, выполняет её и формирует ответ." alt="" coords="128,55,264,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="92,98,155,78,157,83,94,103"/>
+<area shape="rect" id="Node000003" href="$classDatabase.html" title="Доступ к базе данных mathserver.db (паттерн «Одиночка»)." alt="" coords="154,104,238,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="94,114,154,114,154,119,94,119"/>
+<area shape="rect" id="Node000004" href="$classMyTcpClient.html" title="TCP&#45;соединение клиента с сервером 127.0.0.1:33333 (паттерн «Одиночка»)." alt="" coords="145,153,247,179"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="94,130,157,151,155,156,92,135"/>
+<area shape="rect" id="Node000005" href="$classMyTcpServer.html" title="Принимает подключения клиентов на порту 33333 и отвечает на их команды." alt="" coords="143,203,249,228"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="67,137,96,163,129,188,155,200,153,205,127,192,92,167,64,141"/>
+</map>
