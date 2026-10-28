@@ -1,0 +1,12 @@
+<map id="MathServer/parsing.h" name="MathServer/parsing.h">
+<area shape="rect" id="Node000001" title="Разбор текстовых команд клиента на сервере." alt="" coords="164,5,325,31"/>
+<area shape="rect" id="Node000002" href="$mytcpserver_8cpp.html" title=" " alt="" coords="5,152,215,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,38,165,56,137,80,127,98,120,117,113,152,108,151,114,116,122,96,133,77,162,52,194,34"/>
+<area shape="rect" id="Node000003" href="$mytcpserver_8h.html" title="TCP&#45;сервер MathServer." alt="" coords="147,79,342,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,44,247,79,242,79,242,44"/>
+<area shape="rect" id="Node000005" href="$parsing_8cpp.html" title=" " alt="" coords="366,79,542,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="292,33,421,76,419,81,291,38"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="212,113,133,154,131,149,210,108"/>
+<area shape="rect" id="Node000004" href="$MathServer_2main_8cpp.html" title=" " alt="" coords="239,152,400,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,111,309,150,305,154,265,115"/>
+</map>
