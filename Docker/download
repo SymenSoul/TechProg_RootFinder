@@ -1,0 +1,9 @@
+.git
+docs
+*.db
+*.xlsx
+**/moc_*
+**/ui_*.h
+**/*.o
+**/Makefile
+**/build-*

@@ -1,0 +1,13 @@
+services:
+  mathserver:
+    build: .
+    image: mathserver
+    container_name: mathserver
+    ports:
+      - "33333:33333"
+    volumes:
+      - mathserver-data:/data   # тут лежит mathserver.db
+    restart: unless-stopped
+
+volumes:
+  mathserver-data:
