@@ -1,0 +1,7 @@
+<map id="Иерархия классов. Графический вид." name="Иерархия классов. Графический вид.">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,84,56"/>
+<area shape="rect" id="Node000001" href="$classAuthRegForm.html" title="Стартовое окно: поля логина и пароля, кнопки Login и Register (UI&#45;1)." alt="" coords="132,5,243,31"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="97,31,131,25,132,30,98,37"/>
+<area shape="rect" id="Node000002" href="$classMainForm.html" title="Окно вычислений (UI&#45;2)." alt="" coords="144,55,231,80"/>
+<area shape="poly" id="edge7_Node000000_Node000002" title=" " alt="" coords="98,50,144,57,143,63,97,55"/>
+</map>
